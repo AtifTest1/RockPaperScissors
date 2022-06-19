@@ -1,0 +1,1 @@
+A simple game of rock paper scissors that does not yet involve a UI
