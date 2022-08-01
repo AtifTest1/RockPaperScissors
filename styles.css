@@ -1,0 +1,52 @@
+.body{
+    display:flex;
+    background-color: antiquewhite;
+}
+
+.Test{
+    width: 200px;
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Boxes{
+    width: 200px;
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.Player{
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cpu{
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#playerresults{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cpuresults{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
